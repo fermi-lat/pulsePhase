@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: peachey  Thu Jun 17 10:02:08 PDT 2004
+users/peachey/pulsePhase/pulsePhase
+
+Modified Files:
+	TimingModel.h 
+Log Message:
+Add standard guard to prevent multiple inclusion.
+    *
+------------------------------------------------------------
 User: peachey  Thu Jun 17 09:52:31 PDT 2004
 users/peachey/pulsePhase/src/test
 
