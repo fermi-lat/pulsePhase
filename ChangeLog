@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Fri Nov 19 12:45:13 PST 2004
+pulsePhase/pulsePhase
+
+Modified Files:
+	TimingModel.h 
+Log Message:
+Add calFreq method, which computes f0, f1 and f2 at a given epoch.
+
+    *
+------------------------------------------------------------
 User: peachey  Wed Oct 13 06:14:03 PDT 2004
 pulsePhase/doc
 
