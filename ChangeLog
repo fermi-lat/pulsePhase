@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: peachey  Fri Jul 23 16:28:55 PDT 2004
+users/peachey/pulsePhase/src
+
+Modified Files:
+	TimingModel.h 
+Log Message:
+Add accessors for f0, f1, f2.
+    *
+------------------------------------------------------------
 User: peachey  Fri Jun 25 11:44:55 PDT 2004
 users/peachey/pulsePhase/src/test
 
