@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Fri Oct  8 20:53:46 PDT 2004
+pulsePhase/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Use st_facilities::Env to locate data files.
+
+    *
+------------------------------------------------------------
 User: peachey  Fri Aug 27 08:34:01 PDT 2004
 pulsePhase/src/test
 
