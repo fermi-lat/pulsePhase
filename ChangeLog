@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Fri Jan 28 12:40:58 PST 2005
+pulsePhase/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Use pulsarDb classes instead of original pulsePhase::TimingModel.
+
+    *
+------------------------------------------------------------
 User: peachey  Wed Jan 26 12:18:32 PST 2005
 pulsePhase/src/pulsePhase
 
