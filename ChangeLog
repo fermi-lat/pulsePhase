@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: peachey  Fri Jul 23 16:32:02 PDT 2004
+users/peachey/pulsePhase/src/pulsePhase
+
+Modified Files:
+	pulsePhase.cxx 
+Log Message:
+Change interpretation: phi0 from par file is a separate offset.
+The phi0 in the timing model class will be computed from the TOGEO* columns
+in the ephemerides file.
+    *
+------------------------------------------------------------
 User: peachey  Fri Jul 23 16:28:55 PDT 2004
 users/peachey/pulsePhase/src
 
