@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: peachey  Fri Aug 27 08:34:01 PDT 2004
+pulsePhase/src/pulsePhase
+
+Modified Files:
+	pulsePhase.cxx 
+Log Message:
+Make TimingModel public, with a namespace, and add calcPdotCorr method.
+    *
+------------------------------------------------------------
+User: peachey  Fri Aug 27 08:34:01 PDT 2004
 pulsePhase/src
 
 Removed Files:
