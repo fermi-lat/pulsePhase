@@ -1,0 +1,25 @@
+------------------------------------------------------------
+User: peachey  Mon Jun 14 08:03:51 PDT 2004
+users/peachey/pulsePhase
+
+Log Message:
+New package for timing model and phase calculation (U12 tool in SAE).
+
+Status:
+
+Vendor Tag:	GLAST
+Release Tags:	v0
+		
+N users/peachey/pulsePhase/.cvsignore
+N users/peachey/pulsePhase/cmt/requirements
+N users/peachey/pulsePhase/data/D1.fits
+N users/peachey/pulsePhase/doc/release.notes
+N users/peachey/pulsePhase/pfiles/pulsePhase.par
+N users/peachey/pulsePhase/pulsePhase/TimingModel.h
+N users/peachey/pulsePhase/src/pulsePhase/.pulsePhase.cxx.swp
+N users/peachey/pulsePhase/src/pulsePhase/pulsePhase.cxx
+N users/peachey/pulsePhase/src/test/test_pulsePhase.cxx
+
+No conflicts created by this import
+
+    *
