@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: peachey  Mon Jun 14 10:01:37 PDT 2004
+users/peachey/pulsePhase/pfiles
+
+Modified Files:
+	pulsePhase.par 
+Log Message:
+Add period-style parameters.
+    *
+------------------------------------------------------------
 User: peachey  Mon Jun 14 10:00:49 PDT 2004
 users/peachey/pulsePhase/src/pulsePhase
 
