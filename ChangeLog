@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: peachey  Sat Oct  9 23:59:27 PDT 2004
+pulsePhase/src
+
+Added Files:
+	TimingModel.cxx 
+Log Message:
+Add an empty source file so that cmt will make a library, so that
+packages which depend on this one will build.
+
+    *
+------------------------------------------------------------
 User: peachey  Fri Oct  8 20:57:41 PDT 2004
 pulsePhase/doc
 
