@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: peachey  Mon Jun 14 10:06:22 PDT 2004
+users/peachey/pulsePhase/src/pulsePhase
+
+Modified Files:
+	pulsePhase.cxx 
+Log Message:
+Change application to use period as well as frequency parameters.
+    *
+------------------------------------------------------------
 User: peachey  Mon Jun 14 10:05:12 PDT 2004
 users/peachey/pulsePhase/pulsePhase
 
