@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Thu Jun 17 09:51:15 PDT 2004
+users/peachey/pulsePhase/src/pulsePhase
+
+Modified Files:
+	pulsePhase.cxx 
+Log Message:
+Use new TimingModel capabilities instead of hardcoded conversion
+for the case of period-oriented parameters.
+    *
+------------------------------------------------------------
 User: peachey  Thu Jun 17 09:50:10 PDT 2004
 users/peachey/pulsePhase/pulsePhase
 
