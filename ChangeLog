@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Fri Nov 26 06:22:36 PST 2004
+pulsePhase/pfiles
+
+Modified Files:
+	pulsePhase.par 
+Log Message:
+Conform to parameter file standards.
+
+    *
+------------------------------------------------------------
 User: peachey  Fri Nov 19 12:45:13 PST 2004
 pulsePhase/src/test
 
