@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: peachey  Thu Jun 17 09:50:10 PDT 2004
+users/peachey/pulsePhase/pulsePhase
+
+Modified Files:
+	TimingModel.h 
+Log Message:
+Change style of Coeff's default constructor. Add construction
+of FrequencyCoeff and PeriodCoeff from a Coeff (base class) object. Use this
+FrequencyCoeff object instead of base class in TimingModel's constructor.
+    *
+------------------------------------------------------------
 User: peachey  Mon Jun 14 10:06:22 PDT 2004
 users/peachey/pulsePhase/src/pulsePhase
 
