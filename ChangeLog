@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Mon Jun 14 08:31:37 PDT 2004
+users/peachey/pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Look for test data in data directory.
+
+    *
+------------------------------------------------------------
 User: peachey  Mon Jun 14 08:03:51 PDT 2004
 users/peachey/pulsePhase
 
