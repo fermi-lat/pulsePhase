@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: peachey  Fri Nov 19 12:45:13 PST 2004
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Add calFreq method, which computes f0, f1 and f2 at a given epoch.
+
+    *
+------------------------------------------------------------
+User: peachey  Fri Nov 19 12:45:13 PST 2004
 pulsePhase/pulsePhase
 
 Modified Files:
