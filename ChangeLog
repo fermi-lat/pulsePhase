@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: peachey  Mon Jun 14 10:00:49 PDT 2004
+users/peachey/pulsePhase/src/pulsePhase
+
+Removed Files:
+	.pulsePhase.cxx.swp 
+Log Message:
+Duh, remove swap file.
+    *
+------------------------------------------------------------
 User: peachey  Mon Jun 14 08:31:37 PDT 2004
 users/peachey/pulsePhase/src/test
 
