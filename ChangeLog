@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Thu Jun 17 09:52:31 PDT 2004
+users/peachey/pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Take advantage of the double inversion to confirm that one gets the
+same answwer from both period and frequency-style ephemeris specifications.
+    *
+------------------------------------------------------------
 User: peachey  Thu Jun 17 09:51:15 PDT 2004
 users/peachey/pulsePhase/src/pulsePhase
 
