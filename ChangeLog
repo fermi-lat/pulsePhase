@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: peachey  Fri Nov 26 06:22:36 PST 2004
+pulsePhase/src/pulsePhase
+
+Modified Files:
+	pulsePhase.cxx 
+Log Message:
+Conform to parameter file standards.
+
+    *
+------------------------------------------------------------
+User: peachey  Fri Nov 26 06:22:36 PST 2004
 pulsePhase/pfiles
 
 Modified Files:
