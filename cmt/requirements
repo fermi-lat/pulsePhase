@@ -3,9 +3,10 @@ package pulsePhase
 version v0r1p2
 
 author James Peachey <peachey@lheamail.gsfc.nasa.gov>
-# $Id$
+# $Id: requirements,v 1.4 2004/10/10 07:01:11 peachey Exp $
 
 use STpolicy *
+use pulsarDb *
 use st_app *
 use st_facilities *
 use tip *
