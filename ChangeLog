@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Fri Jan 28 12:54:41 PST 2005
+pulsePhase/pfiles
+
+Modified Files:
+	pulsePhase.par 
+Log Message:
+Add parameters for accessing pulsar database.
+
+    *
+------------------------------------------------------------
 User: peachey  Fri Jan 28 12:40:58 PST 2005
 pulsePhase/src/test
 
