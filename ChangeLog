@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Mon Jun 14 10:05:12 PDT 2004
+users/peachey/pulsePhase/pulsePhase
+
+Modified Files:
+	TimingModel.h 
+Log Message:
+Add helper struct Coeff, and subclasses, and constructors
+to facilitate period coefficients as well as frequency.
+    *
+------------------------------------------------------------
 User: peachey  Mon Jun 14 10:02:48 PDT 2004
 users/peachey/pulsePhase/src/test
 
