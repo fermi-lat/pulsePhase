@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Mon Jun 14 10:02:48 PDT 2004
+users/peachey/pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Add tests for frequency and period variations of TimingModel
+construction.
+    *
+------------------------------------------------------------
 User: peachey  Mon Jun 14 10:01:37 PDT 2004
 users/peachey/pulsePhase/pfiles
 
