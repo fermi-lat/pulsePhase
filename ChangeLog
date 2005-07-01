@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Fri Jul  1 12:42:52 PDT 2005
+pulsePhase/pfiles
+
+Modified Files:
+	pulsePhase.par 
+Log Message:
+Add binary demodulation, an option.
+
+    *
+------------------------------------------------------------
 User: peachey  Fri Jul  1 12:42:34 PDT 2005
 pulsePhase/src/pulsePhase
 
