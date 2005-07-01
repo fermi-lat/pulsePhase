@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: peachey  Fri Jul  1 12:42:34 PDT 2005
+pulsePhase/src/pulsePhase
+
+Modified Files:
+	pulsePhase.cxx 
+Log Message:
+Add binary demodulation, and in the process use EphComputer
+instead of separately using TimingModel + EphChooser.
+
+    *
+------------------------------------------------------------
 User: peachey  Fri Jul  1 12:41:40 PDT 2005
 pulsePhase/src/test
 
