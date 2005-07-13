@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Wed Jul 13 14:25:25 PDT 2005
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Rename methods: calcPhase->calcPulsePhase and correctPdot->cancelPdot.
+
+    *
+------------------------------------------------------------
 User: peachey  Wed Jul 13 12:40:52 PDT 2005
 pulsePhase/data
 
