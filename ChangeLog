@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: peachey  Wed Jul 13 12:39:56 PDT 2005
+pulsePhase/pfiles
+
+Modified Files:
+	pulsePhase.par 
+Log Message:
+Add support for binary demodulation, and in the process decouple
+spin and orbital corrections (database is always used for orbital, optional for spin.)
+
+    *
+------------------------------------------------------------
 User: peachey  Fri Jul  1 12:42:52 PDT 2005
 pulsePhase/pfiles
 
