@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Wed Aug  3 13:25:32 PDT 2005
+pulsePhase/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Renaming pulsePhase binary to gtpphase.
+
+    *
+------------------------------------------------------------
 User: peachey  Wed Aug  3 13:24:58 PDT 2005
 pulsePhase/pfiles
 
