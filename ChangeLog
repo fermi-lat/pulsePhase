@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Wed Aug  3 13:24:22 PDT 2005
+pulsePhase/src/gtpphase
+
+Added Files:
+	gtpphase.cxx 
+Log Message:
+Renaming pulsePhase binary to gtpphase.
+
+    *
+------------------------------------------------------------
 User: peachey  Wed Aug  3 13:18:04 PDT 2005
 pulsePhase/src/gtpphase
 
