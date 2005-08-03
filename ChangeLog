@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Wed Aug  3 13:26:10 PDT 2005
+pulsePhase/pfiles
+
+Removed Files:
+	pulsePhase.par 
+Log Message:
+Renaming pulsePhase binary to gtpphase.
+
+    *
+------------------------------------------------------------
 User: peachey  Wed Aug  3 13:25:32 PDT 2005
 pulsePhase/cmt
 
