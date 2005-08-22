@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Mon Aug 22 06:48:29 PDT 2005
+pulsePhase/src/gtophase
+
+Added Files:
+	gtophase.cxx 
+Log Message:
+Add gtophase utility, for computing orbital phase assignments.
+
+    *
+------------------------------------------------------------
 User: peachey  Mon Aug 22 06:47:50 PDT 2005
 pulsePhase/src/gtophase
 
