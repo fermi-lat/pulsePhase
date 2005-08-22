@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Mon Aug 22 06:47:27 PDT 2005
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Prompt for timefield parameter (it's hidden so makes no diff now.
+
+    *
+------------------------------------------------------------
 User: peachey  Fri Aug 12 12:29:56 PDT 2005
 pulsePhase/src
 
