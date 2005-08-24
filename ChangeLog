@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Wed Aug 24 13:42:38 PDT 2005
+pulsePhase/pfiles
+
+Modified Files:
+	gtophase.par 
+Log Message:
+Move hidden parameters to the end, to improve look of GUI.
+
+    *
+------------------------------------------------------------
 User: peachey  Wed Aug 24 13:42:22 PDT 2005
 pulsePhase/pfiles
 
