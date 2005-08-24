@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Wed Aug 24 13:42:22 PDT 2005
+pulsePhase/pfiles
+
+Modified Files:
+	gtpphase.par 
+Log Message:
+Move hidden parameters to the end, to improve look of GUI.
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1, operation: add
 Package: pulsePhase
