@@ -1,5 +1,25 @@
 ------------------------------------------------------------
 TAG
+Tag name: ScienceToolsv6r2, operation: add
+Package: pulsePhase
+User: glast  Wed Dec 14 10:54:23 2005
+Files:
+  pulsePhase/.cvsignore  1.1.1.1
+  pulsePhase/ChangeLog  1.79
+  pulsePhase/cmt/requirements  1.9
+  pulsePhase/data/D1.fits  1.1.1.1
+  pulsePhase/data/master_pulsardb.fits  1.1
+  pulsePhase/doc/release.notes  1.10
+  pulsePhase/pfiles/gtophase.par  1.2
+  pulsePhase/pfiles/gtpphase.par  1.2
+  pulsePhase/src/mainpage.h  1.4
+  pulsePhase/src/gtophase/gtophase.cxx  1.1
+  pulsePhase/src/gtpphase/gtpphase.cxx  1.2
+  pulsePhase/src/test/test_pulsePhase.cxx  1.12
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: v1r0p2, operation: add
 Package: pulsePhase
 User: peachey  Thu Aug 25 13:22:14 2005
