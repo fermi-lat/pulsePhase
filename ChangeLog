@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: peachey  Tue Dec 27 19:05:20 PST 2005
+pulsePhase/data
+
+Modified Files:
+	D1.fits 
+Log Message:
+Create columns with phase information if they do not exist. Be more careful
+about error handling. Change test input file not to have phase columns.
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: ScienceToolsv6r2, operation: add
 Package: pulsePhase
