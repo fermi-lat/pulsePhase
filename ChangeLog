@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: peachey  Tue Dec 27 19:05:21 PST 2005
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Create columns with phase information if they do not exist. Be more careful
+about error handling. Change test input file not to have phase columns.
+
+    *
+------------------------------------------------------------
 User: peachey  Tue Dec 27 19:05:20 PST 2005
 pulsePhase/src/gtophase
 
