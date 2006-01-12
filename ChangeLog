@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: peachey  Thu Jan 12 13:06:44 PST 2006
+pulsePhase/pfiles
+
+Modified Files:
+	gtophase.par gtpphase.par 
+Log Message:
+Add parameters holding the names of pulse phase and orbital phase columns,
+and use those to populate the output column.
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r1, operation: add
 Package: pulsePhase
