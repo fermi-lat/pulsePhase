@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: peachey  Fri Jan 27 11:47:44 PST 2006
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Decouple event time system from ephemeris epoch time system, in anticipation
+of changes to infrastructure which will allow absolute times in different
+formats and time systems to be mixed freely.
+
+    *
+------------------------------------------------------------
 User: peachey  Wed Jan 25 13:37:14 PST 2006
 pulsePhase/pfiles
 
