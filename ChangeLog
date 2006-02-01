@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Wed Feb  1 13:12:45 PST 2006
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Improve checks for consistency between time systems.
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2, operation: add
 Package: pulsePhase
