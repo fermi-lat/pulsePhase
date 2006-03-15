@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Wed Mar 15 11:50:30 PST 2006
+pulsePhase/pfiles
+
+Modified Files:
+	gtpphase.par 
+Log Message:
+Add default phase phi0 == 0.
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r1, operation: add
 Package: pulsePhase
