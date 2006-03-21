@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Tue Mar 21 14:13:45 PST 2006
+pulsePhase/pfiles
+
+Modified Files:
+	gtpphase.par 
+Log Message:
+Prompt for phi0 only when database is not used. Add hidden pphaseoffset par.
+
+    *
+------------------------------------------------------------
 User: peachey  Tue Mar 21 13:43:58 PST 2006
 pulsePhase/src/gtpphase
 
