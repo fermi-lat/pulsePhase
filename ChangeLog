@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Tue Mar 21 14:17:50 PST 2006
+pulsePhase/pfiles
+
+Modified Files:
+	gtophase.par 
+Log Message:
+Replace phi0 with hidden ophaseoffset par.
+
+    *
+------------------------------------------------------------
 User: peachey  Tue Mar 21 14:13:45 PST 2006
 pulsePhase/src/gtpphase
 
