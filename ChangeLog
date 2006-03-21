@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Tue Mar 21 13:43:58 PST 2006
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Do not open database if it is not needed (no binary demodulation and manual ephemeris.)
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r1p1, operation: add
 Package: pulsePhase
