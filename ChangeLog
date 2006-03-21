@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Tue Mar 21 14:24:24 PST 2006
+pulsePhase/pfiles
+
+Modified Files:
+	gtpphase.par 
+Log Message:
+Seed parameters with appropriate default values.
+
+    *
+------------------------------------------------------------
 User: peachey  Tue Mar 21 14:17:50 PST 2006
 pulsePhase/src/gtophase
 
