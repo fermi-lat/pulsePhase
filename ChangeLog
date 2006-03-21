@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: peachey  Tue Mar 21 14:13:45 PST 2006
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Prompt for phi0 only when database is not used. Add hidden pphaseoffset par.
+
+    *
+------------------------------------------------------------
+User: peachey  Tue Mar 21 14:13:45 PST 2006
 pulsePhase/pfiles
 
 Modified Files:
