@@ -3,7 +3,7 @@ package pulsePhase
 version v0r1p2
 
 author James Peachey <peachey@milkyway.gsfc.nasa.gov>
-# $Id: requirements,v 1.8 2005/08/12 19:24:17 peachey Exp $
+# $Id: requirements,v 1.9 2005/08/12 19:26:22 peachey Exp $
 
 use STpolicy *
 
@@ -16,6 +16,7 @@ private
 use pulsarDb *
 use st_app *
 use st_facilities *
+use timeSystem *
 use tip *
 
 application test_pulsePhase test/*.cxx
