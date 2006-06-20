@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: hirayama  Tue Jun 20 14:52:20 PDT 2006
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Replace time-handling classes (AbsoluteTime etc.) with the ones in timeSystem package.
+
+    *
+------------------------------------------------------------
+User: hirayama  Tue Jun 20 14:52:20 PDT 2006
 pulsePhase/cmt
 
 Modified Files:
