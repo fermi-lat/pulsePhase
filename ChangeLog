@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Tue Jun 20 14:52:20 PDT 2006
+pulsePhase/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Replace time-handling classes (AbsoluteTime etc.) with the ones in timeSystem package.
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3, operation: add
 Package: pulsePhase
