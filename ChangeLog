@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Wed Jul 12 14:50:29 PDT 2006
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Relocate the block to determine whether to perform binary demodulation. Add a comment for clarity.
+
+    *
+------------------------------------------------------------
 User: hirayama  Wed Jul 12 14:44:24 PDT 2006
 pulsePhase/src/gtpphase
 
