@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Wed Jul 12 14:44:24 PDT 2006
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Remove unused variables, abs_valid_since/until, and relocate declaration of evt_time_rep to its first use after the removal.
+
+    *
+------------------------------------------------------------
 User: peachey  Wed Jul 12 13:05:45 PDT 2006
 pulsePhase/src/gtpphase
 
