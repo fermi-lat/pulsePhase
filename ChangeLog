@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: peachey  Wed Jul 12 12:23:29 PDT 2006
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Use new loadPulsarEph and loadOrbitalEph methods in EphComputer to load only
+necessary ephemerides.
+
+    *
+------------------------------------------------------------
 User: peachey  Wed Jul 12 11:47:38 PDT 2006
 pulsePhase/src/gtpphase
 
