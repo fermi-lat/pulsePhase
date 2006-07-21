@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Fri Jul 21 13:48:44 PDT 2006
+pulsePhase/data
+
+Modified Files:
+	master_pulsardb.fits 
+Log Message:
+Remove a binary ephemeris for PSR B0540-69 for simplicity.
+    *
+------------------------------------------------------------
 User: hirayama  Wed Jul 12 14:50:29 PDT 2006
 pulsePhase/src/gtpphase
 
