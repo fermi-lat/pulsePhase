@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: peachey  Wed Aug  9 13:17:59 PDT 2006
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Use GlastMetRep for reference time parameter. The reftime
+parameter is still required to be GLAST MET for now.
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v4, operation: add
 Package: pulsePhase
