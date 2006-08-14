@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Mon Aug 14 12:02:26 PDT 2006
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Use timeSystem::MetRep to read MJDREF from event file for event times.
+
+    *
+------------------------------------------------------------
 User: peachey  Wed Aug  9 13:17:59 PDT 2006
 pulsePhase/src/gtpphase
 
