@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Wed Aug 23 13:06:12 PDT 2006
+pulsePhase/pfiles
+
+Modified Files:
+	gtpphase.par 
+Log Message:
+Change type of reftime from real to string. Make timeformat and timesys auto.
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v4r1, operation: add
 Package: pulsePhase
