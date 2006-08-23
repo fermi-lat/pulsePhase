@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Wed Aug 23 13:06:22 PDT 2006
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Change type of reftime from real to string. Allow MJD timeformat.
+
+    *
+------------------------------------------------------------
 User: peachey  Wed Aug 23 13:06:12 PDT 2006
 pulsePhase/pfiles
 
