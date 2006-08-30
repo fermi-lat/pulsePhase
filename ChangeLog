@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Wed Aug 30 13:58:41 PDT 2006
+pulsePhase/pfiles
+
+Modified Files:
+	gtpphase.par 
+Log Message:
+Add option FILE for matching user input time system and time format to event file's.
+
+    *
+------------------------------------------------------------
 User: peachey  Wed Aug 30 13:28:29 PDT 2006
 pulsePhase/src/gtpphase
 
