@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: peachey  Wed Sep  6 13:54:54 PDT 2006
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Construct MetRep from MjdRefDatabase object instead of using defunct
+construction from a tip::Header.
+
+    *
+------------------------------------------------------------
+User: peachey  Wed Sep  6 13:54:54 PDT 2006
 pulsePhase/src/gtpphase
 
 Modified Files:
