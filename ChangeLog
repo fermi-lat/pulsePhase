@@ -1,4 +1,24 @@
 ------------------------------------------------------------
+TAG
+Tag name: v4r2, operation: add
+Package: pulsePhase
+User: peachey  Wed Sep  6 12:25:48 2006
+Files:
+  pulsePhase/.cvsignore  1.1.1.1
+  pulsePhase/ChangeLog  1.143
+  pulsePhase/cmt/requirements  1.10
+  pulsePhase/data/D1.fits  1.2
+  pulsePhase/data/master_pulsardb.fits  1.2
+  pulsePhase/doc/release.notes  1.18
+  pulsePhase/pfiles/gtophase.par  1.4
+  pulsePhase/pfiles/gtpphase.par  1.12
+  pulsePhase/src/mainpage.h  1.4
+  pulsePhase/src/gtophase/gtophase.cxx  1.8
+  pulsePhase/src/gtpphase/gtpphase.cxx  1.23
+  pulsePhase/src/test/test_pulsePhase.cxx  1.17
+
+    *
+------------------------------------------------------------
 User: peachey  Wed Sep  6 12:25:35 PDT 2006
 pulsePhase/doc
 
