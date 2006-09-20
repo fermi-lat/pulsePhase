@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Wed Sep 20 12:28:18 PDT 2006
+pulsePhase/src
+
+Modified Files:
+	mainpage.h 
+Log Message:
+Add description of FILE option for timeformat and timesys parameters.
+
+    *
+------------------------------------------------------------
 User: peachey  Mon Sep 18 13:51:49 PDT 2006
 pulsePhase/src
 
