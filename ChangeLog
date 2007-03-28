@@ -2,6 +2,25 @@
 TAG
 Tag name: v5r0p2, operation: add
 Package: pulsePhase
+User: peachey  Wed Mar 28 13:34:22 2007
+Files:
+  pulsePhase/.cvsignore  1.1.1.1
+  pulsePhase/ChangeLog  1.155
+  pulsePhase/cmt/requirements  1.10
+  pulsePhase/data/D1.fits  1.2
+  pulsePhase/data/master_pulsardb.fits  1.2
+  pulsePhase/pfiles/gtophase.par  1.4
+  pulsePhase/pfiles/gtpphase.par  1.12
+  pulsePhase/src/mainpage.h  1.6
+  pulsePhase/src/gtophase/gtophase.cxx  1.9
+  pulsePhase/src/gtpphase/gtpphase.cxx  1.25
+  pulsePhase/src/test/test_pulsePhase.cxx  1.18
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: v5r0p2, operation: add
+Package: pulsePhase
 User: peachey  Wed Mar 28 13:34:06 2007
 Files:
   pulsePhase/doc/release.notes  1.21
