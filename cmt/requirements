@@ -2,8 +2,8 @@ package pulsePhase
 
 version v0r1p2
 
-author James Peachey <peachey@milkyway.gsfc.nasa.gov>
-# $Id: requirements,v 1.9 2005/08/12 19:26:22 peachey Exp $
+author James Peachey <James.Peachey-1@nasa.gov>
+# $Id: requirements,v 1.10 2006/06/20 21:52:20 hirayama Exp $
 
 use STpolicy *
 
