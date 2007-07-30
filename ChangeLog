@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Mon Jul 30 16:08:17 PDT 2007
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Introduce PulsarToolApp class as the direct base class of PulsePhaseApp class.
+
+    *
+------------------------------------------------------------
 User: peachey  Mon Jul 23 11:42:53 PDT 2007
 pulsePhase/src
 
