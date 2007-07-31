@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: peachey  Tue Jul 31 13:43:38 PDT 2007
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Open event files with write access, because this app needs to
+update the event files.
+
+    *
+------------------------------------------------------------
 User: hirayama  Mon Jul 30 16:08:17 PDT 2007
 pulsePhase/src/gtophase
 
