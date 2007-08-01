@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Wed Aug  1 14:59:24 PDT 2007
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Fix the bug reported as JIRA PULS-38.
+
+    *
+------------------------------------------------------------
 User: peachey  Tue Jul 31 13:43:38 PDT 2007
 pulsePhase/src/gtophase
 
