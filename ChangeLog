@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Tue Sep  4 15:23:24 PDT 2007
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Remove unused variable named header.
+
+    *
+------------------------------------------------------------
 User: peachey  Tue Sep  4 13:55:40 PDT 2007
 pulsePhase/src/test
 
