@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Tue Sep  4 13:55:40 PDT 2007
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Use dummy RA and Dec in construction of test ephemeris.
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v5r1p1, operation: add
 Package: pulsePhase
