@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Thu Sep  6 15:49:02 PDT 2007
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Clean up a list of header files to include.
+
+    *
+------------------------------------------------------------
 User: hirayama  Tue Sep  4 15:23:24 PDT 2007
 pulsePhase/src/test
 
