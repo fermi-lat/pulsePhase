@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Mon Sep 17 14:45:17 PDT 2007
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Add an EventTimeHandlerFactory object to support GLAST LAT data.
+
+    *
+------------------------------------------------------------
 User: hirayama  Thu Sep  6 15:49:02 PDT 2007
 pulsePhase/src/gtophase
 
