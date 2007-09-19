@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Wed Sep 19 15:48:17 PDT 2007
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Add parameters for barycentering (scfile, sctable, ra, dec). Change ephstyle (to pass to initEphComputer) from DB to NONE.
+
+    *
+------------------------------------------------------------
 User: hirayama  Wed Sep 19 15:47:15 PDT 2007
 pulsePhase/src/gtpphase
 
