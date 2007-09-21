@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Fri Sep 21 15:10:55 PDT 2007
+pulsePhase/pfiles
+
+Modified Files:
+	gtophase.par 
+Log Message:
+Change psrdbfile parameter from hidden to automatic.
+
+    *
+------------------------------------------------------------
 User: hirayama  Wed Sep 19 15:48:17 PDT 2007
 pulsePhase/src/gtophase
 
