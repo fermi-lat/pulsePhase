@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Fri Sep 21 15:13:48 PDT 2007
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Rationalize the prompting order. Add prompting of hidden parameters.
+
+    *
+------------------------------------------------------------
 User: hirayama  Fri Sep 21 15:13:13 PDT 2007
 pulsePhase/src/gtpphase
 
