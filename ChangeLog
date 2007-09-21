@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Fri Sep 21 15:12:01 PDT 2007
+pulsePhase/pfiles
+
+Modified Files:
+	gtpphase.par 
+Log Message:
+Add tcorrect parameter and remove demodbin parameter. Rationalize the order of parameters. Change psrdbfile parameter from hidden to automatic.
+
+    *
+------------------------------------------------------------
 User: hirayama  Fri Sep 21 15:10:55 PDT 2007
 pulsePhase/pfiles
 
