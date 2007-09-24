@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Mon Sep 24 13:20:12 PDT 2007
+pulsePhase/data
+
+Removed Files:
+	master_pulsardb.fits 
+Log Message:
+Remove data/master_pulsardb.fits.
+
+    *
+------------------------------------------------------------
 User: hirayama  Mon Sep 24 12:52:37 PDT 2007
 pulsePhase/pfiles
 
