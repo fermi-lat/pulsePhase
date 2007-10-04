@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Thu Oct  4 14:56:39 PDT 2007
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Clean up headers and namespaces for st_facilities and facilities.
+
+    *
+------------------------------------------------------------
 User: golpa  Mon Oct  1 10:17:49 PDT 2007
 pulsePhase/src/test
 
