@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: hirayama  Fri Oct 12 15:59:00 PDT 2007
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Add prompting of solareph, matchsolareph, and angtol parameters.
+
+    *
+------------------------------------------------------------
+User: hirayama  Fri Oct 12 15:59:00 PDT 2007
 pulsePhase/src/gtophase
 
 Modified Files:
