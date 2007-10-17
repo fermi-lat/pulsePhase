@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Wed Oct 17 15:22:58 PDT 2007
+pulsePhase/src
+
+Modified Files:
+	mainpage.h 
+Log Message:
+Add new parameters and refine descriptions. Minor clean-ups for consistency with the other pulsar tools packages.
+
+    *
+------------------------------------------------------------
 User: hirayama  Wed Oct 17 15:22:39 PDT 2007
 pulsePhase/pfiles
 
