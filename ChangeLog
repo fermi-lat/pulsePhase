@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Tue Oct 30 14:37:21 PDT 2007
+pulsePhase/pfiles
+
+Modified Files:
+	gtpphase.par gtophase.par 
+Log Message:
+Add unit (degrees) to prompts for ra and dec parameters.
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v6r0p1, operation: add
 Package: pulsePhase
