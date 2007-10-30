@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Tue Oct 30 14:37:47 PDT 2007
+pulsePhase/src
+
+Modified Files:
+	mainpage.h 
+Log Message:
+Spell out RA and Dec for clarity. Minor corrections for enumerated strings.
+
+    *
+------------------------------------------------------------
 User: hirayama  Tue Oct 30 14:37:21 PDT 2007
 pulsePhase/pfiles
 
