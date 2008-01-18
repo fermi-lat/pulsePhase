@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: hirayama  Fri Jan 18 14:45:40 PST 2008
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Remove use of TimingModel class object.
+
+    *
+------------------------------------------------------------
+User: hirayama  Fri Jan 18 14:45:40 PST 2008
 pulsePhase/src/gtpphase
 
 Modified Files:
