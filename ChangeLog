@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Fri Jan 18 14:45:40 PST 2008
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Remove use of TimingModel class object.
+
+    *
+------------------------------------------------------------
 User: golpa  Mon Dec 10 13:35:01 PST 2007
 pulsePhase
 
