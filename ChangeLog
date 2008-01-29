@@ -1,4 +1,24 @@
 ------------------------------------------------------------
+TAG
+Tag name: v6r0p3, operation: add
+Package: pulsePhase
+User: peachey  Tue Jan 29 12:55:20 2008
+Files:
+  pulsePhase/.cvsignore  1.1.1.1
+  pulsePhase/ChangeLog  1.215
+  pulsePhase/SConscript  1.2
+  pulsePhase/cmt/requirements  1.11
+  pulsePhase/data/D1.fits  1.2
+  pulsePhase/doc/release.notes  1.27
+  pulsePhase/pfiles/gtophase.par  1.12
+  pulsePhase/pfiles/gtpphase.par  1.19
+  pulsePhase/src/mainpage.h  1.11
+  pulsePhase/src/gtophase/gtophase.cxx  1.20
+  pulsePhase/src/gtpphase/gtpphase.cxx  1.36
+  pulsePhase/src/test/test_pulsePhase.cxx  1.22
+
+    *
+------------------------------------------------------------
 User: peachey  Tue Jan 29 12:55:01 PST 2008
 pulsePhase/doc
 
