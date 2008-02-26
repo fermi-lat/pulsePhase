@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: glastrm  Mon Feb 25 21:30:16 PST 2008
+ScienceTools-scons/pulsePhase
+
+Modified Files:
+	SConscript 
+Log Message:
+Remove unecessary imports
+    *
+------------------------------------------------------------
 TAG
 Tag name: pulsePhase-06-00-03, operation: add
 Package: pulsePhase
