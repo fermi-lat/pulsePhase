@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: glastrm  Wed Mar 19 13:51:26 PDT 2008
+ScienceTools-scons/pulsePhase
+
+Modified Files:
+	SConscript 
+Log Message:
+Register data files
+    *
+------------------------------------------------------------
 TAG
 Tag name: pulsePhase-06-00-03, operation: mov
 Package: pulsePhase
