@@ -1,4 +1,4 @@
-#$Id$
+#$Id: SConscript,v 1.3 2008/02/26 05:30:16 glastrm Exp $
 Import('baseEnv')
 Import('listFiles')
 progEnv = baseEnv.Clone()
@@ -13,4 +13,5 @@ gtophaseBin = progEnv.Program('gtophase', listFiles(['src/gtophase/*.cxx']))
 gtpphaseBin = progEnv.Program('gtpphase', listFiles(['src/gtpphase/*.cxx']))
 test_pulsePhaseBin = progEnv.Program('test_pulsePhase', listFiles(['src/test/*.cxx']))
 
-progEnv.Tool('registerObjects', package = 'pulsePhase', binaries = [gtophaseBin, gtpphaseBin], testApps = [test_pulsePhaseBin], pfiles = listFiles(['pfiles/*.par']))
+progEnv.Tool('registerObjects', package = 'pulsePhase', binaries = [gtophaseBin, gtpphaseBin], testApps = [test_pulsePhaseBin], pfiles = listFiles(['pfiles/*.par']),
+             data = listFiles(['data/*'], recursive = True))
