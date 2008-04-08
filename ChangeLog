@@ -1,5 +1,25 @@
 ------------------------------------------------------------
 TAG
+Tag name: pulsePhase-06-01-00, operation: add
+Package: pulsePhase
+User: glastrm  Tue Apr  8 14:15:45 2008
+Files:
+  pulsePhase/.cvsignore  1.1.1.1
+  pulsePhase/ChangeLog  1.225
+  pulsePhase/SConscript  1.4
+  pulsePhase/cmt/requirements  1.11
+  pulsePhase/data/D1.fits  1.2
+  pulsePhase/doc/release.notes  1.28
+  pulsePhase/pfiles/gtophase.par  1.12
+  pulsePhase/pfiles/gtpphase.par  1.19
+  pulsePhase/src/mainpage.h  1.11
+  pulsePhase/src/gtophase/gtophase.cxx  1.21
+  pulsePhase/src/gtpphase/gtpphase.cxx  1.37
+  pulsePhase/src/test/test_pulsePhase.cxx  1.24
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: v6r1, operation: add
 Package: pulsePhase
 User: peachey  Tue Apr  8 14:08:13 2008
