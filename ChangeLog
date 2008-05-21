@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Wed May 21 14:25:31 PDT 2008
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Stop using MetRep (use ElapsedTime instead).
+    *
+------------------------------------------------------------
 TAG
 Tag name: pulsePhase-06-01-00, operation: add
 Package: pulsePhase
