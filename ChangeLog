@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: glastrm  Thu Jun 19 16:42:12 PDT 2008
+ScienceTools-scons/pulsePhase
+
+Modified Files:
+	SConscript 
+Log Message:
+Added Author and Version fields
+    *
+------------------------------------------------------------
 User: hirayama  Wed May 21 14:25:31 PDT 2008
 pulsePhase/src/test
 
