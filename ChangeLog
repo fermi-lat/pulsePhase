@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Mon Jul  7 20:09:10 PDT 2008
+pulsePhase/pfiles
+
+Modified Files:
+	gtpphase.par 
+Log Message:
+Add ISO time format for applications to accept.
+    *
+------------------------------------------------------------
 TAG
 Tag name: v6r1, operation: mov
 Package: pulsePhase
