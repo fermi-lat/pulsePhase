@@ -1,5 +1,22 @@
 ------------------------------------------------------------
 TAG
+Tag name: ScienceTools-09-07-00, operation: add
+Package: pulsePhase
+User: glastrm  Sat Jul 26 20:56:18 2008
+Files:
+  pulsePhase/cmt/requirements  1.11
+  pulsePhase/data/D1.fits  1.2
+  pulsePhase/doc/release.notes  1.28
+  pulsePhase/pfiles/gtophase.par  1.12
+  pulsePhase/pfiles/gtpphase.par  1.19
+  pulsePhase/src/mainpage.h  1.11
+  pulsePhase/src/gtophase/gtophase.cxx  1.21
+  pulsePhase/src/gtpphase/gtpphase.cxx  1.37
+  pulsePhase/src/test/test_pulsePhase.cxx  1.24
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: ScienceTools-09-06-03, operation: add
 Package: pulsePhase
 User: glastrm  Tue Jul 15 20:52:50 2008
