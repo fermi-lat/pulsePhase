@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: hirayama  Wed Aug 27 15:24:11 PDT 2008
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Call getParGroup with no argument.
+    *
+------------------------------------------------------------
+User: hirayama  Wed Aug 27 15:24:11 PDT 2008
 pulsePhase/src/gtophase
 
 Modified Files:
