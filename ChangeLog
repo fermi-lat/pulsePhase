@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Wed Aug 27 15:24:11 PDT 2008
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Call getParGroup with no argument.
+    *
+------------------------------------------------------------
 TAG
 Tag name: pulsePhase-06-02-00, operation: add
 Package: pulsePhase
