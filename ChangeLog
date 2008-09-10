@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Wed Sep 10 01:40:27 PDT 2008
+pulsePhase/pfiles
+
+Modified Files:
+	gtpphase.par gtophase.par 
+Log Message:
+Add ephemeris status reporting capability.
+    *
+------------------------------------------------------------
 User: hirayama  Wed Sep 10 01:39:45 PDT 2008
 pulsePhase/src/gtophase
 
