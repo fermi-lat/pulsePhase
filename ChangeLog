@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: hirayama  Wed Sep 10 17:29:18 PDT 2008
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Prompt for reportephstatus parameter explicitly.
+    *
+------------------------------------------------------------
+User: hirayama  Wed Sep 10 17:29:18 PDT 2008
 pulsePhase/src/gtpphase
 
 Modified Files:
