@@ -1,4 +1,24 @@
 ------------------------------------------------------------
+TAG
+Tag name: v7r1, operation: add
+Package: pulsePhase
+User: hirayama  Fri Sep 26 13:00:29 2008
+Files:
+  pulsePhase/.cvsignore  1.1.1.1
+  pulsePhase/ChangeLog  1.265
+  pulsePhase/SConscript  1.7
+  pulsePhase/cmt/requirements  1.11
+  pulsePhase/data/D1.fits  1.2
+  pulsePhase/doc/release.notes  1.31
+  pulsePhase/pfiles/gtophase.par  1.13
+  pulsePhase/pfiles/gtpphase.par  1.21
+  pulsePhase/src/mainpage.h  1.11
+  pulsePhase/src/gtophase/gtophase.cxx  1.26
+  pulsePhase/src/gtpphase/gtpphase.cxx  1.42
+  pulsePhase/src/test/test_pulsePhase.cxx  1.26
+
+    *
+------------------------------------------------------------
 User: hirayama  Fri Sep 26 13:00:06 PDT 2008
 pulsePhase/doc
 
