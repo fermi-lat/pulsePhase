@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: hirayama  Thu Sep 25 18:31:21 PDT 2008
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Remove capability of reading event files that are already barycentered.
+    *
+------------------------------------------------------------
+User: hirayama  Thu Sep 25 18:31:21 PDT 2008
 pulsePhase/src/gtpphase
 
 Modified Files:
