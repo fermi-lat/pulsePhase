@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Sun Sep 28 19:46:36 PDT 2008
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Report ephemeris loading summary.
+    *
+------------------------------------------------------------
 TAG
 Tag name: pulsePhase-07-01-00, operation: add
 Package: pulsePhase
