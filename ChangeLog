@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: hirayama  Mon Sep 29 15:47:57 PDT 2008
+pulsePhase/src/gtpphase
+
+Modified Files:
+	gtpphase.cxx 
+Log Message:
+Write parameter values to HISTORY keywords in EVENTS extension of the input event file(s).
+    *
+------------------------------------------------------------
+User: hirayama  Mon Sep 29 15:47:57 PDT 2008
 pulsePhase/src/gtophase
 
 Modified Files:
