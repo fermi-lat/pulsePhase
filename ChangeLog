@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: hirayama  Sun Sep 28 19:46:36 PDT 2008
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Report ephemeris loading summary.
+    *
+------------------------------------------------------------
+User: hirayama  Sun Sep 28 19:46:36 PDT 2008
 pulsePhase/src/gtpphase
 
 Modified Files:
