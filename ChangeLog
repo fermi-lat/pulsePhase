@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: peachey  Tue Sep 30 14:18:39 PDT 2008
+pulsePhase/data
+
+Removed Files:
+	D1.fits 
+Log Message:
+Remove test code from unit test and input file from
+unit test, because it was not useful.
+    *
+------------------------------------------------------------
+User: peachey  Tue Sep 30 14:18:39 PDT 2008
 pulsePhase/src/test
 
 Modified Files:
