@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: peachey  Tue Sep 30 14:18:39 PDT 2008
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Remove test code from unit test and input file from
+unit test, because it was not useful.
+    *
+------------------------------------------------------------
 User: hirayama  Mon Sep 29 15:47:57 PDT 2008
 pulsePhase/src/gtpphase
 
