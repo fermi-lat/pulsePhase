@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: hirayama  Sat Oct  4 19:55:54 PDT 2008
+pulsePhase/src/gtophase
+
+Modified Files:
+	gtophase.cxx 
+Log Message:
+Split application source files into definitions and implementations. Change the unit test into StApp application.
+    *
+------------------------------------------------------------
+User: hirayama  Sat Oct  4 19:55:54 PDT 2008
 pulsePhase/cmt
 
 Modified Files:
