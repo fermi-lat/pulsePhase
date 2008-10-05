@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Sat Oct  4 19:55:54 PDT 2008
+pulsePhase/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Split application source files into definitions and implementations. Change the unit test into StApp application.
+    *
+------------------------------------------------------------
 TAG
 Tag name: pulsePhase-07-02-00, operation: add
 Package: pulsePhase
