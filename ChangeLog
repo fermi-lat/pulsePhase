@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: hirayama  Sat Oct  4 20:10:56 PDT 2008
+pulsePhase
+
+Modified Files:
+	SConscript 
+Added Files:
+	pulsePhaseLib.py 
+Log Message:
+Add a library created from this package.
+    *
+------------------------------------------------------------
 User: hirayama  Sat Oct  4 19:55:55 PDT 2008
 pulsePhase/src
 
