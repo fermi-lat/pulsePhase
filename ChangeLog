@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Sat Oct  4 19:55:55 PDT 2008
+pulsePhase/src
+
+Added Files:
+	OrbitalPhaseApp.cxx OrbitalPhaseApp.h PulsePhaseApp.cxx 
+	PulsePhaseApp.h 
+Log Message:
+Split application source files into definitions and implementations. Change the unit test into StApp application.
+    *
+------------------------------------------------------------
 User: hirayama  Sat Oct  4 19:55:54 PDT 2008
 pulsePhase/src/test
 
