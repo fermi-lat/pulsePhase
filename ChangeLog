@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Tue Oct  7 13:58:58 PDT 2008
+pulsePhase/pfiles
+
+Modified Files:
+	gtophase.par 
+Log Message:
+Add leapsecfile parameter for future addition of UTC-related ephemeris computations.
+    *
+------------------------------------------------------------
 User: hirayama  Sat Oct  4 20:10:56 PDT 2008
 pulsePhase
 
