@@ -1,4 +1,28 @@
 ------------------------------------------------------------
+TAG
+Tag name: v8, operation: add
+Package: pulsePhase
+User: hirayama  Thu Oct  9 18:32:54 2008
+Files:
+  pulsePhase/.cvsignore  1.1.1.1
+  pulsePhase/pulsePhaseLib.py  1.1
+  pulsePhase/ChangeLog  1.290
+  pulsePhase/SConscript  1.10
+  pulsePhase/cmt/requirements  1.12
+  pulsePhase/doc/release.notes  1.33
+  pulsePhase/pfiles/gtophase.par  1.14
+  pulsePhase/pfiles/gtpphase.par  1.21
+  pulsePhase/src/PulsePhaseApp.h  1.1
+  pulsePhase/src/mainpage.h  1.11
+  pulsePhase/src/PulsePhaseApp.cxx  1.2
+  pulsePhase/src/OrbitalPhaseApp.cxx  1.2
+  pulsePhase/src/OrbitalPhaseApp.h  1.1
+  pulsePhase/src/gtophase/gtophase.cxx  1.29
+  pulsePhase/src/gtpphase/gtpphase.cxx  1.45
+  pulsePhase/src/test/test_pulsePhase.cxx  1.28
+
+    *
+------------------------------------------------------------
 User: hirayama  Thu Oct  9 18:32:42 PDT 2008
 pulsePhase/doc
 
