@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Sun Oct 12 16:09:27 PDT 2008
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Introduce a common base class for a unit test of a pulsar tool package.
+    *
+------------------------------------------------------------
 TAG
 Tag name: pulsePhase-08-00-00, operation: add
 Package: pulsePhase
