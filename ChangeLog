@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: hirayama  Fri Oct 17 19:08:29 PDT 2008
+pulsePhase/data
+
+Added Files:
+	master_pulsardb_v2.fits my_pulsar_events_2gti.fits 
+	my_pulsar_events_v3.fits my_pulsar_spacecraft_data_v3r1.fits 
+	psrdb_binary.txt psrdb_remark.txt psrdb_spin1.txt 
+	psrdb_spin2.txt psrdb_spin3.txt psrdb_spin4.txt 
+Log Message:
+Add tests of the applications.
+    *
+------------------------------------------------------------
 User: hirayama  Fri Oct 17 19:07:21 PDT 2008
 pulsePhase/src/test
 
