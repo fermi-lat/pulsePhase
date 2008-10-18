@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Fri Oct 17 21:20:06 PDT 2008
+pulsePhase/data
+
+Modified Files:
+	my_pulsar_events_2gti.fits 
+Log Message:
+Replace with a cleaner file.
+    *
+------------------------------------------------------------
 User: hirayama  Fri Oct 17 21:19:43 PDT 2008
 pulsePhase/src/test
 
