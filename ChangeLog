@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: hirayama  Sun Oct 19 13:54:12 PDT 2008
+pulsePhase/src
+
+Modified Files:
+	PulsePhaseApp.cxx PulsePhaseApp.h OrbitalPhaseApp.h 
+	OrbitalPhaseApp.cxx 
+Log Message:
+Fix a bug (JIRA PULS-48) with new PulsarToolApp class.
+    *
+------------------------------------------------------------
 User: hirayama  Fri Oct 17 21:20:06 PDT 2008
 pulsePhase/data
 
