@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Sun Oct 19 14:21:39 PDT 2008
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Enforce initialization of a unit test and its error reporting at the end.
+    *
+------------------------------------------------------------
 User: hirayama  Sun Oct 19 13:54:12 PDT 2008
 pulsePhase/src
 
