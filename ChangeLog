@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Wed Oct 22 18:14:28 PDT 2008
+pulsePhase/src
+
+Modified Files:
+	OrbitalPhaseApp.h PulsePhaseApp.h 
+Log Message:
+Add/improve Doxygen comments.
+    *
+------------------------------------------------------------
 User: hirayama  Sun Oct 19 22:36:07 PDT 2008
 pulsePhase/src
 
