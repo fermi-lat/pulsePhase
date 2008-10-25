@@ -1,4 +1,19 @@
 ------------------------------------------------------------
+User: hirayama  Fri Oct 24 17:59:26 PDT 2008
+pulsePhase/data/outref
+
+Added Files:
+	testOrbitalPhaseApp_par1.fits testOrbitalPhaseApp_par2.log 
+	testOrbitalPhaseApp_par3.log testOrbitalPhaseApp_par4.log 
+	testPulsePhaseApp_par1.fits testPulsePhaseApp_par10.log 
+	testPulsePhaseApp_par2.fits testPulsePhaseApp_par3.fits 
+	testPulsePhaseApp_par4.fits testPulsePhaseApp_par5.log 
+	testPulsePhaseApp_par6.log testPulsePhaseApp_par7.log 
+	testPulsePhaseApp_par8.log testPulsePhaseApp_par9.log 
+Log Message:
+Add reference files for the unit test.
+    *
+------------------------------------------------------------
 User: hirayama  Fri Oct 24 17:56:17 PDT 2008
 pulsePhase/data/outref
 
