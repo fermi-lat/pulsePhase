@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Fri Oct 24 18:00:56 PDT 2008
+pulsePhase/pfiles
+
+Modified Files:
+	gtpphase.par 
+Log Message:
+Include the units of frequency parameters in prompts.
+    *
+------------------------------------------------------------
 User: hirayama  Fri Oct 24 17:59:26 PDT 2008
 pulsePhase/data/outref
 
