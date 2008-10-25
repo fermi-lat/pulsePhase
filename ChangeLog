@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Fri Oct 24 18:59:06 PDT 2008
+pulsePhase/pfiles
+
+Modified Files:
+	gtpphase.par gtophase.par 
+Log Message:
+Improve prompts.
+    *
+------------------------------------------------------------
 TAG
 Tag name: v8r1, operation: add
 Package: pulsePhase
