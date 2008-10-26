@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: hirayama  Sat Oct 25 20:13:08 PDT 2008
+pulsePhase/data/outref
+
+Modified Files:
+	testPulsePhaseApp_par2.fits testPulsePhaseApp_par4.fits 
+Log Message:
+Change prompts.
+    *
+------------------------------------------------------------
+User: hirayama  Sat Oct 25 20:13:08 PDT 2008
 pulsePhase/pfiles
 
 Modified Files:
