@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Sun Oct 26 16:39:56 PDT 2008
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Adopt to changes in timeSystem package.
+    *
+------------------------------------------------------------
 User: hirayama  Sat Oct 25 20:13:08 PDT 2008
 pulsePhase/data/outref
 
