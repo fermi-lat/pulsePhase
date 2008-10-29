@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: hirayama  Wed Oct 29 15:10:16 PDT 2008
+pulsePhase/data/outref
+
+Modified Files:
+	testPulsePhaseApp_par7.log testOrbitalPhaseApp_par4.log 
+Log Message:
+Add report of chosen time correction modes for chatter=3 and higher.
+    *
+------------------------------------------------------------
+User: hirayama  Wed Oct 29 15:10:16 PDT 2008
 pulsePhase/src
 
 Modified Files:
