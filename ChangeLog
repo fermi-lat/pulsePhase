@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Wed Oct 29 15:10:16 PDT 2008
+pulsePhase/src
+
+Modified Files:
+	PulsePhaseApp.cxx OrbitalPhaseApp.cxx 
+Log Message:
+Add report of chosen time correction modes for chatter=3 and higher.
+    *
+------------------------------------------------------------
 TAG
 Tag name: pulsePhase-08-02-00, operation: add
 Package: pulsePhase
