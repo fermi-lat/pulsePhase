@@ -1,7 +1,7 @@
 # -*- python -*-
-# $Id: SConscript,v 1.12 2008/10/25 02:30:33 glastrm Exp $
+# $Id: SConscript,v 1.14 2008/10/30 03:05:05 glastrm Exp $
 # Authors: James Peachey <James.Peachey-1@nasa.gov>
-# Version: pulsePhase-08-02-00
+# Version: pulsePhase-08-03-00
 
 Import('baseEnv')
 Import('listFiles')
@@ -11,12 +11,7 @@ libEnv = baseEnv.Clone()
 libEnv.Tool('pulsePhaseLib', depsOnly = 1)
 pulsePhaseLib = libEnv.StaticLibrary('pulsePhase', listFiles(['src/*.cxx']))
 
-progEnv.Tool('pulsarDbLib')
-progEnv.Tool('st_appLib')
-progEnv.Tool('st_facilitiesLib')
-progEnv.Tool('timeSystemLib')
-progEnv.Tool('tipLib')
-
+progEnv.Tool('pulsePhaseLib')
 gtophaseBin = progEnv.Program('gtophase', listFiles(['src/gtophase/*.cxx']))
 gtpphaseBin = progEnv.Program('gtpphase', listFiles(['src/gtpphase/*.cxx']))
 test_pulsePhaseBin = progEnv.Program('test_pulsePhase', listFiles(['src/test/*.cxx']))
