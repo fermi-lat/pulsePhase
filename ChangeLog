@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Sun Apr 26 20:23:29 PDT 2009
+pulsePhase/src
+
+Modified Files:
+	PulsePhaseApp.cxx OrbitalPhaseApp.cxx 
+Log Message:
+Use UTC time for file modification time, instead of local time.
+    *
+------------------------------------------------------------
 TAG
 Tag name: ScienceTools-09-11-00, operation: add
 Package: pulsePhase
