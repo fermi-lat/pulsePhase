@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Sat May  9 20:52:15 PDT 2009
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Changes for improved PulsarTestApp and PulsarApplicationTester classes.
+    *
+------------------------------------------------------------
 TAG
 Tag name: ScienceTools-09-12-00, operation: add
 Package: pulsePhase
