@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Thu May 21 16:52:44 PDT 2009
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Implement tool-specific verify method.
+    *
+------------------------------------------------------------
 User: hirayama  Thu May 14 18:29:50 PDT 2009
 pulsePhase/src/test
 
