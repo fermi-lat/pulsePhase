@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Mon May 25 20:21:13 PDT 2009
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Loosen tolerance for orbital phase comparison.
+    *
+------------------------------------------------------------
 TAG
 Tag name: ScienceTools-09-13-00, operation: add
 Package: pulsePhase
