@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Sun May 31 19:55:36 PDT 2009
+pulsePhase/pfiles
+
+Modified Files:
+	gtpphase.par 
+Log Message:
+Accept timeformat=FERMI in addition to GLAST.
+    *
+------------------------------------------------------------
 TAG
 Tag name: pulsePhase-08-04-02, operation: add
 Package: pulsePhase
