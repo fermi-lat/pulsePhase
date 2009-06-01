@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Sun May 31 19:55:59 PDT 2009
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Use timeformat=FERMI instead of GLAST in the application tests.
+    *
+------------------------------------------------------------
 User: hirayama  Sun May 31 19:55:48 PDT 2009
 pulsePhase/src
 
