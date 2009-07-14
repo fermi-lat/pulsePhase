@@ -1,5 +1,5 @@
 # -*- python -*-
-# $Id: SConscript,v 1.18 2009/05/26 03:31:13 glastrm Exp $
+# $Id: SConscript,v 1.19 2009/06/02 23:30:43 glastrm Exp $
 # Authors: James Peachey <James.Peachey-1@nasa.gov>
 # Version: pulsePhase-08-05-00
 
@@ -16,6 +16,10 @@ gtophaseBin = progEnv.Program('gtophase', listFiles(['src/gtophase/*.cxx']))
 gtpphaseBin = progEnv.Program('gtpphase', listFiles(['src/gtpphase/*.cxx']))
 test_pulsePhaseBin = progEnv.Program('test_pulsePhase', listFiles(['src/test/*.cxx']))
 
-progEnv.Tool('registerObjects', package = 'pulsePhase', libraries = [pulsePhaseLib], binaries = [gtophaseBin, gtpphaseBin],
-             testApps = [test_pulsePhaseBin], includes = listFiles(['pulsePhase/*.h']), pfiles = listFiles(['pfiles/*.par']),
+progEnv.Tool('registerTargets', package = 'pulsePhase',
+             staticLibraryCxts = [[pulsePhaseLib, progEnv]],
+             binaryCxts = [[gtophaseBin,progEnv], [gtpphaseBin, progEnv]],
+             testAppCxts = [[test_pulsePhaseBin, progEnv]],
+             includes = listFiles(['pulsePhase/*.h']),
+             pfiles = listFiles(['pfiles/*.par']),
              data = listFiles(['data/*'], recursive = True))
