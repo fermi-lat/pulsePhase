@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Fri Sep 18 17:09:11 PDT 2009
+pulsePhase/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+Revive a missed entry for v0r1p1. Reverse the order of entries.
+    *
+------------------------------------------------------------
 TAG
 Tag name: ScienceTools-15-01-02, operation: del
 Package: pulsePhase
