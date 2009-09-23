@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Wed Sep 23 16:22:28 PDT 2009
+pulsePhase/data
+
+Modified Files:
+	psrdb_binary.txt psrdb_remark.txt psrdb_spin1.txt 
+Log Message:
+Adopt to improved errors and warnings in ephemeris sub-selection. Test new feature of psrdbfile=NONE.
+    *
+------------------------------------------------------------
 User: hirayama  Fri Sep 18 17:09:11 PDT 2009
 pulsePhase/doc
 
