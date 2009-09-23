@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: hirayama  Wed Sep 23 16:22:28 PDT 2009
+pulsePhase/data/outref
+
+Modified Files:
+	testOrbitalPhaseApp_par4.log testPulsePhaseApp_par7.log 
+Log Message:
+Adopt to improved errors and warnings in ephemeris sub-selection. Test new feature of psrdbfile=NONE.
+    *
+------------------------------------------------------------
+User: hirayama  Wed Sep 23 16:22:28 PDT 2009
 pulsePhase/data
 
 Modified Files:
