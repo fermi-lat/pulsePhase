@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Wed Sep 23 16:22:29 PDT 2009
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Adopt to improved errors and warnings in ephemeris sub-selection. Test new feature of psrdbfile=NONE.
+    *
+------------------------------------------------------------
 User: hirayama  Wed Sep 23 16:22:28 PDT 2009
 pulsePhase/data/outref
 
