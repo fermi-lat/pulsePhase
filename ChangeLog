@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Tue Oct 27 14:10:17 PDT 2009
+pulsePhase/src
+
+Modified Files:
+	mainpage.h 
+Log Message:
+Add explanation of psrdbfile=NONE.
+    *
+------------------------------------------------------------
 TAG
 Tag name: pulsePhase-08-06-00, operation: add
 Package: pulsePhase
