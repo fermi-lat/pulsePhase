@@ -1,5 +1,5 @@
 # -*- python -*-
-# $Id: SConscript,v 1.22 2009/10/23 22:47:47 hirayama Exp $
+# $Id: SConscript,v 1.23 2009/10/27 21:19:12 hirayama Exp $
 # Authors: James Peachey <James.Peachey-1@nasa.gov>
 # Version: pulsePhase-08-06-01
 
@@ -8,7 +8,6 @@ Import('listFiles')
 progEnv = baseEnv.Clone()
 libEnv = baseEnv.Clone()
 
-libEnv.Tool('pulsePhaseLib', depsOnly = 1)
 pulsePhaseLib = libEnv.StaticLibrary('pulsePhase', listFiles(['src/*.cxx']))
 
 progEnv.Tool('pulsePhaseLib')
