@@ -1,9 +1,9 @@
 package pulsePhase
 
-version v8r5p1
+version v8r6p2
 
 author James Peachey <James.Peachey-1@nasa.gov>
-# $Id: requirements,v 1.12 2008/10/05 02:55:54 hirayama Exp $
+# $Id: requirements,v 1.13 2009/07/15 17:46:34 jrb Exp $
 
 use STpolicy *
 
