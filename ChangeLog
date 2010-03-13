@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Fri Mar 12 17:49:13 PST 2010
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Include stdexcept header.
+    *
+------------------------------------------------------------
 TAG
 Tag name: ScienceTools-09-16-00, operation: add
 Package: pulsePhase
