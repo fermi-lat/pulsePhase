@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: hirayama  Wed Apr  7 20:45:38 PDT 2010
+pulsePhase/data/outref
+
+Modified Files:
+	testOrbitalPhaseApp_par1.fits testPulsePhaseApp_par1.fits 
+	testPulsePhaseApp_par2.fits testPulsePhaseApp_par3.fits 
+	testPulsePhaseApp_par4.fits 
+Log Message:
+Replace test event files with non-time-ordered files.
+    *
+------------------------------------------------------------
 User: hirayama  Wed Apr  7 20:45:37 PDT 2010
 pulsePhase/data
 
