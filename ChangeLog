@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Wed Apr  7 20:45:37 PDT 2010
+pulsePhase/data
+
+Added Files:
+	my_pulsar_events_v3r1.fits 
+Log Message:
+Replace test event files with non-time-ordered files.
+    *
+------------------------------------------------------------
 TAG
 Tag name: ScienceTools-09-16-01, operation: add
 Package: pulsePhase
