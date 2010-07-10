@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Fri Jul  9 18:43:42 PDT 2010
+pulsePhase/src
+
+Modified Files:
+	OrbitalPhaseApp.cxx PulsePhaseApp.cxx 
+Log Message:
+Stop using namespaces. Remove unnecessary header files.
+    *
+------------------------------------------------------------
 User: hirayama  Fri Jun 25 14:48:58 PDT 2010
 pulsePhase/data/outref
 
