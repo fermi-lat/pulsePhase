@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Mon Jul 19 19:20:23 PDT 2010
+pulsePhase/src
+
+Modified Files:
+	mainpage.h 
+Log Message:
+Add missing parameter leapsecfile.
+    *
+------------------------------------------------------------
 User: hirayama  Fri Jul  9 18:43:42 PDT 2010
 pulsePhase/src
 
