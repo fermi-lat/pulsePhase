@@ -1,5 +1,54 @@
 ------------------------------------------------------------
 TAG
+Tag name: ScienceTools-09-18-03, operation: add
+Package: pulsePhase
+User: glastrm  Mon Aug 30 10:22:22 2010
+Files:
+  pulsePhase/.cvsignore  1.2
+  pulsePhase/pulsePhaseLib.py  1.1
+  pulsePhase/ChangeLog  1.426
+  pulsePhase/SConscript  1.27
+  pulsePhase/cmt/requirements  1.16
+  pulsePhase/data/psrdb_remark.txt  1.2
+  pulsePhase/data/psrdb_binary.txt  1.2
+  pulsePhase/data/psrdb_spin4.txt  1.1
+  pulsePhase/data/psrdb_spin3.txt  1.1
+  pulsePhase/data/my_pulsar_events_v3r1.fits  1.1
+  pulsePhase/data/psrdb_spin1.txt  1.2
+  pulsePhase/data/my_pulsar_events_2gti.fits  1.2
+  pulsePhase/data/my_pulsar_spacecraft_data_v3r1.fits  1.1
+  pulsePhase/data/psrdb_spin2.txt  1.1
+  pulsePhase/data/master_pulsardb_v2.fits  1.1
+  pulsePhase/data/my_pulsar_events_v3.fits  1.1
+  pulsePhase/data/outref/testPulsePhaseApp_par4.fits  1.3
+  pulsePhase/data/outref/testPulsePhaseApp_par10.log  1.1
+  pulsePhase/data/outref/testPulsePhaseApp_par9.log  1.1
+  pulsePhase/data/outref/testPulsePhaseApp_par7.log  1.4
+  pulsePhase/data/outref/testOrbitalPhaseApp_par4.log  1.4
+  pulsePhase/data/outref/testPulsePhaseApp_par3.fits  1.2
+  pulsePhase/data/outref/testPulsePhaseApp_par2.fits  1.3
+  pulsePhase/data/outref/testPulsePhaseApp_par6.log  1.1
+  pulsePhase/data/outref/testOrbitalPhaseApp_par3.log  1.1
+  pulsePhase/data/outref/testPulsePhaseApp_par1.fits  1.2
+  pulsePhase/data/outref/testOrbitalPhaseApp_par1.fits  1.2
+  pulsePhase/data/outref/testOrbitalPhaseApp_par2.log  1.1
+  pulsePhase/data/outref/testPulsePhaseApp_par8.log  1.1
+  pulsePhase/data/outref/testPulsePhaseApp_par5.log  1.1
+  pulsePhase/doc/release.notes  1.48
+  pulsePhase/pfiles/gtophase.par  1.16
+  pulsePhase/pfiles/gtpphase.par  1.26
+  pulsePhase/src/PulsePhaseApp.h  1.3
+  pulsePhase/src/mainpage.h  1.15
+  pulsePhase/src/PulsePhaseApp.cxx  1.7
+  pulsePhase/src/OrbitalPhaseApp.cxx  1.6
+  pulsePhase/src/OrbitalPhaseApp.h  1.3
+  pulsePhase/src/gtophase/gtophase.cxx  1.29
+  pulsePhase/src/gtpphase/gtpphase.cxx  1.45
+  pulsePhase/src/test/test_pulsePhase.cxx  1.45
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: ScienceTools-09-18-02, operation: add
 Package: pulsePhase
 User: glastrm  Sat Aug 28 10:18:18 2010
