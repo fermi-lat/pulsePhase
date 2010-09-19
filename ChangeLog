@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Sat Sep 18 21:10:03 PDT 2010
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Use psrdbfile=NONE when appropriate.
+    *
+------------------------------------------------------------
 TAG
 Tag name: pulsePhase-08-06-05, operation: add
 Package: pulsePhase
