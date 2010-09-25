@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: hirayama  Fri Sep 24 18:52:52 PDT 2010
+pulsePhase/data
+
+Added Files:
+	testpsrdb_ephcomp.fits 
+Log Message:
+Replace pulsar database file for application tests.
+    *
+------------------------------------------------------------
+User: hirayama  Fri Sep 24 18:52:52 PDT 2010
 pulsePhase/src/test
 
 Modified Files:
