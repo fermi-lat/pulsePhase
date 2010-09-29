@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: hirayama  Tue Sep 28 18:34:27 PDT 2010
+pulsePhase/data
+
+Added Files:
+	psrdb_glitch.txt 
+Log Message:
+Test the glitch reporting mechanism.
+    *
+------------------------------------------------------------
+User: hirayama  Tue Sep 28 18:34:27 PDT 2010
 pulsePhase/src/test
 
 Modified Files:
