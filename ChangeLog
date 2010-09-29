@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Tue Sep 28 18:58:31 PDT 2010
+pulsePhase/data/outref
+
+Modified Files:
+	testPulsePhaseApp_par5.log testOrbitalPhaseApp_par2.log 
+Log Message:
+Changes for improved glitch reports.
+    *
+------------------------------------------------------------
 User: hirayama  Tue Sep 28 18:34:27 PDT 2010
 pulsePhase/data/outref
 
