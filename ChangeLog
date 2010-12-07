@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Mon Dec  6 19:19:50 PST 2010
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Add tests of phase computations for a larger time span.
+    *
+------------------------------------------------------------
 TAG
 Tag name: ScienceTools-09-19-00, operation: add
 Package: pulsePhase
