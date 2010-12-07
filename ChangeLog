@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: hirayama  Mon Dec  6 19:19:52 PST 2010
+pulsePhase/data
+
+Added Files:
+	testevdata_1year.fits testscdata_1year.fits 
+	testpsrdb_spin_freq.txt testpsrdb_spin_hp.txt 
+	testpsrdb_spin_per.txt testpsrdb_orbital_bt.txt 
+	testpsrdb_orbital_dd.txt 
+Log Message:
+Add tests of phase computations for a larger time span.
+    *
+------------------------------------------------------------
 User: hirayama  Mon Dec  6 19:19:50 PST 2010
 pulsePhase/src/test
 
