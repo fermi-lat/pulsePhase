@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: hirayama  Tue Dec  7 16:24:04 PST 2010
+pulsePhase/data/outref
+
+Added Files:
+	testOrbitalPhaseApp_par1b.fits testOrbitalPhaseApp_par1c.fits 
+	testPulsePhaseApp_par1c.fits testPulsePhaseApp_par3c.fits 
+Log Message:
+Add tests of gtpphase with EPHSTYLE=PER. Add tests of gtophase with DD and BT models.
+    *
+------------------------------------------------------------
+User: hirayama  Tue Dec  7 16:24:04 PST 2010
 pulsePhase/src/test
 
 Modified Files:
