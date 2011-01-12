@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Tue Jan 11 18:40:32 PST 2011
+pulsePhase/pfiles
+
+Modified Files:
+	gtpphase.par 
+Log Message:
+Correct comments (cosmetic).
+    *
+------------------------------------------------------------
 TAG
 Tag name: ScienceTools-09-20-00, operation: add
 Package: pulsePhase
