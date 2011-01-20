@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: hirayama  Wed Jan 19 20:19:03 PST 2011
+pulsePhase/data
+
+Modified Files:
+	testpsrdb_ephcomp.fits 
+Added Files:
+	testpsrdb_orbital_ell1.txt testpsrdb_orbital_mss.txt 
+Log Message:
+Add tests of new orbital models (ELL1 and MSS).
+    *
+------------------------------------------------------------
+User: hirayama  Wed Jan 19 20:19:03 PST 2011
 pulsePhase/src/test
 
 Modified Files:
