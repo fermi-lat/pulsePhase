@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Wed Jan 19 20:19:04 PST 2011
+pulsePhase/data/outref
+
+Added Files:
+	testPulsePhaseApp_par4c.fits testPulsePhaseApp_par4d.fits 
+Log Message:
+Add tests of new orbital models (ELL1 and MSS).
+    *
+------------------------------------------------------------
 User: hirayama  Wed Jan 19 20:19:03 PST 2011
 pulsePhase/data
 
