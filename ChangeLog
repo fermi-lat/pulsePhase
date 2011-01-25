@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: hirayama  Tue Jan 25 12:26:45 PST 2011
+pulsePhase/src/test
+
+Modified Files:
+	test_pulsePhase.cxx 
+Log Message:
+Add capability of reading RA and Dec from ephemeris database.
+    *
+------------------------------------------------------------
+User: hirayama  Tue Jan 25 12:26:45 PST 2011
 pulsePhase/pfiles
 
 Modified Files:
