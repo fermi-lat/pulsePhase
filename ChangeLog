@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Tue Jan 25 12:26:45 PST 2011
+pulsePhase/src
+
+Modified Files:
+	OrbitalPhaseApp.cxx 
+Log Message:
+Add capability of reading RA and Dec from ephemeris database.
+    *
+------------------------------------------------------------
 User: hirayama  Wed Jan 19 20:19:04 PST 2011
 pulsePhase/data/outref
 
