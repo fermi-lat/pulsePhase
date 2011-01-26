@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: hirayama  Wed Jan 26 14:46:13 PST 2011
+pulsePhase/data
+
+Added Files:
+	psrdb_spin5.txt psrdb_spin6.txt 
+Log Message:
+Add input and reference files for the unit test.
+    *
+------------------------------------------------------------
+User: hirayama  Wed Jan 26 14:46:13 PST 2011
 pulsePhase/data/outref
 
 Added Files:
