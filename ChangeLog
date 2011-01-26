@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Wed Jan 26 14:46:13 PST 2011
+pulsePhase/data/outref
+
+Added Files:
+	testOrbitalPhaseApp_par8.fits testOrbitalPhaseApp_par9.fits 
+Log Message:
+Add input and reference files for the unit test.
+    *
+------------------------------------------------------------
 User: hirayama  Tue Jan 25 12:26:45 PST 2011
 pulsePhase/src/test
 
