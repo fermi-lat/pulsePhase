@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: hirayama  Wed Apr  6 19:44:09 PDT 2011
+pulsePhase/src
+
+Modified Files:
+	OrbitalPhaseApp.cxx 
+Log Message:
+Stop prompting for ra and dec when psrposition is not USER.
+    *
+------------------------------------------------------------
 TAG
 Tag name: pulsePhase-09-00-02, operation: add
 Package: pulsePhase
