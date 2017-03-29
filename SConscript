@@ -1,6 +1,6 @@
 # -*- python -*-
-# $Id: SConscript,v 1.32 2011/04/07 02:46:44 hirayama Exp $
-# Authors: James Peachey <James.Peachey-1@nasa.gov>
+# $Id: SConscript,v 1.33 2011/05/16 21:01:41 hirayama Exp $
+# Authors: James Peachey <James.Peachey-1@nasa.gov>, Joe Asercion <joseph.a.asercion@nasa.gov>
 # Version: pulsePhase-09-00-04
 
 Import('baseEnv')
