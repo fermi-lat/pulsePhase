@@ -11,13 +11,12 @@ libEnv = baseEnv.Clone()
 pulsePhaseLib = libEnv.StaticLibrary('pulsePhase', listFiles(['src/*.cxx']))
 
 progEnv.Tool('pulsePhaseLib')
-gtophaseBin = progEnv.Program('gtophase', listFiles(['src/gtophase/*.cxx']))
 gtpphaseBin = progEnv.Program('gtpphase', listFiles(['src/gtpphase/*.cxx']))
 test_pulsePhaseBin = progEnv.Program('test_pulsePhase', listFiles(['src/test/*.cxx']))
 
 progEnv.Tool('registerTargets', package = 'pulsePhase',
              staticLibraryCxts = [[pulsePhaseLib, progEnv]],
-             binaryCxts = [[gtophaseBin,progEnv], [gtpphaseBin, progEnv]],
+             binaryCxts = [[gtpphaseBin, progEnv]],
              testAppCxts = [[test_pulsePhaseBin, progEnv]],
              includes = listFiles(['pulsePhase/*.h']),
              pfiles = listFiles(['pfiles/*.par']),
