@@ -84,7 +84,7 @@ void OrbitalPhaseApp::runApp() {
   selectTimeCorrectionMode("DEFAULT");
 
   // Set variables to initialize ephemeris computations and arrival time corrections.
-  std::auto_ptr<pulsarDb::EphChooser> chooser(0);
+  std::unique_ptr<pulsarDb::EphChooser> chooser(nullptr);
   std::string eph_style;
   bool vary_ra_dec = false;
   if ("USER" == src_position_uc) {
