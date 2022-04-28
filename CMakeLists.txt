@@ -3,8 +3,8 @@ add_library(pulsePhase STATIC src/OrbitalPhaseApp.cxx src/PulsePhaseApp.cxx)
 target_link_libraries(pulsePhase PUBLIC pulsarDb st_app st_facilities timeSystem tip)
 target_include_directories(
   pulsePhase PUBLIC
-  $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}>
-  $<INSTALL_INTERFACE:>
+  $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}>/src
+  $<INSTALL_INTERFACE:>/src
 )
 
 ###### Executables ######
