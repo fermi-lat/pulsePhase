@@ -24,10 +24,7 @@ target_link_libraries(test_pulsePhase PRIVATE pulsePhase)
 ###############################################################
 install(DIRECTORY pfiles/ DESTINATION ${FERMI_INSTALL_PFILESDIR})
 install(DIRECTORY data/outref DESTINATION ${FERMI_INSTALL_DATADIR}/pulsePhase)
-install(
-  DIRECTORY data/ DESTINATION ${FERMI_INSTALL_REFDATADIR}/pulsePhase
-  PATTERN "outref" EXCLUDE
-)
+install(DIRECTORY data/ DESTINATION ${FERMI_INSTALL_REFDATADIR}/pulsePhase)
 
 install(
   TARGETS pulsePhase gtophase gtpphase test_pulsePhase
