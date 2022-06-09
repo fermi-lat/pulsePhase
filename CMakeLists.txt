@@ -1,5 +1,5 @@
 ##### Library ######
-add_library(pulsePhase STATIC src/OrbitalPhaseApp.cxx src/PulsePhaseApp.cxx)
+add_library(pulsePhase src/OrbitalPhaseApp.cxx src/PulsePhaseApp.cxx)
 target_link_libraries(pulsePhase PUBLIC pulsarDb st_app st_facilities timeSystem tip)
 target_include_directories(
   pulsePhase PUBLIC
