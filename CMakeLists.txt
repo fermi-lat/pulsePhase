@@ -8,6 +8,8 @@ target_include_directories(
 )
 
 ###### Executables ######
+set(CMAKE_INSTALL_RPATH_USE_LINK_PATH TRUE)
+
 add_executable(gtophase src/gtophase/gtophase.cxx)
 add_executable(gtpphase src/gtpphase/gtpphase.cxx)
 
